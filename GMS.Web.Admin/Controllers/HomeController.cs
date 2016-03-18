@@ -13,7 +13,7 @@ namespace GMS.Web.Admin.Controllers
 
         public ActionResult Index()
         {  
-            return RedirectToAction("Index", "Auth", new { Area = "Acco hhhunt"});
+            return RedirectToAction("Index", "Auth", new { Area = "Account"});
         }
     }
 }
