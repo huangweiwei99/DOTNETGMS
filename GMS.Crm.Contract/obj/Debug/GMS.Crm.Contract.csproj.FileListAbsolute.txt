@@ -1,0 +1,5 @@
+D:\项目\例子\GMS\bin\GMS.Crm.Contract.dll
+D:\项目\例子\GMS\bin\GMS.Crm.Contract.pdb
+D:\项目\例子\GMS\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.csprojResolveAssemblyReference.cache
+D:\项目\例子\GMS\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.dll
+D:\项目\例子\GMS\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.pdb

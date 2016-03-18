@@ -1,0 +1,5 @@
+D:\项目\例子\GMS\bin\GMS.Core.Upload.dll
+D:\项目\例子\GMS\bin\GMS.Core.Upload.pdb
+D:\项目\例子\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csprojResolveAssemblyReference.cache
+D:\项目\例子\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.dll
+D:\项目\例子\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.pdb

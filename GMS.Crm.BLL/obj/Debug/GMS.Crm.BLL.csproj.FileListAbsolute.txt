@@ -1,0 +1,5 @@
+D:\项目\例子\GMS\bin\GMS.Crm.BLL.dll
+D:\项目\例子\GMS\bin\GMS.Crm.BLL.pdb
+D:\项目\例子\GMS\Src\GMS.Crm.BLL\obj\Debug\GMS.Crm.BLL.csprojResolveAssemblyReference.cache
+D:\项目\例子\GMS\Src\GMS.Crm.BLL\obj\Debug\GMS.Crm.BLL.dll
+D:\项目\例子\GMS\Src\GMS.Crm.BLL\obj\Debug\GMS.Crm.BLL.pdb

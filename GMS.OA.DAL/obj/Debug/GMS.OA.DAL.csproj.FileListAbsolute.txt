@@ -1,0 +1,5 @@
+D:\项目\例子\GMS\bin\GMS.OA.DAL.dll
+D:\项目\例子\GMS\bin\GMS.OA.DAL.pdb
+D:\项目\例子\GMS\Src\GMS.OA.DAL\obj\Debug\GMS.OA.DAL.csprojResolveAssemblyReference.cache
+D:\项目\例子\GMS\Src\GMS.OA.DAL\obj\Debug\GMS.OA.DAL.dll
+D:\项目\例子\GMS\Src\GMS.OA.DAL\obj\Debug\GMS.OA.DAL.pdb

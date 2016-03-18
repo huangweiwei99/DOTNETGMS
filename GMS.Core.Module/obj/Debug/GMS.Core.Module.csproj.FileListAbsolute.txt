@@ -1,0 +1,5 @@
+D:\项目\例子\GMS\bin\GMS.Core.Module.dll
+D:\项目\例子\GMS\bin\GMS.Core.Module.pdb
+D:\项目\例子\GMS\Src\GMS.Core.Module\obj\Debug\GMS.Core.Module.csprojResolveAssemblyReference.cache
+D:\项目\例子\GMS\Src\GMS.Core.Module\obj\Debug\GMS.Core.Module.dll
+D:\项目\例子\GMS\Src\GMS.Core.Module\obj\Debug\GMS.Core.Module.pdb
