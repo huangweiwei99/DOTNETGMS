@@ -12,8 +12,8 @@ namespace GMS.Web.Admin.Controllers
         // GET: /Home/
 
         public ActionResult Index()
-        {
-            return RedirectToAction("Index", "Auth", new { Area = "Account"});
+        {  
+            return RedirectToAction("Index", "Auth", new { Area = "Acco hhhunt"});
         }
     }
 }
