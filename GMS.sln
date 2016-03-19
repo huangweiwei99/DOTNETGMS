@@ -69,6 +69,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMS.OA.DAL", "GMS.OA.DAL\GM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMS.OA.BLL", "GMS.OA.BLL\GMS.OA.BLL.csproj", "{7EDEF7B7-E1EE-4441-B3AD-29896DB3BFDB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mssql", "mssql", "{2917BE8D-E16F-4E23-B19D-11FE0780139D}"
+	ProjectSection(SolutionItems) = preProject
+		..\GMSAccount.sql = ..\GMSAccount.sql
+		..\GMSCms.sql = ..\GMSCms.sql
+		..\GMSCrm.sql = ..\GMSCrm.sql
+		..\GMSLog.sql = ..\GMSLog.sql
+		..\GMSOA.sql = ..\GMSOA.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

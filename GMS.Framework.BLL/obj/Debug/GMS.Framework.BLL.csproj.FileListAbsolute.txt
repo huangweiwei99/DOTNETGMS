@@ -1,5 +1,6 @@
 D:\项目\例子\GMS\bin\GMS.Framework.BLL.XML
 D:\项目\例子\GMS\bin\GMS.Framework.BLL.dll
 D:\项目\例子\GMS\bin\GMS.Framework.BLL.pdb
+D:\项目\例子\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.csprojResolveAssemblyReference.cache
 D:\项目\例子\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.dll
 D:\项目\例子\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.pdb
